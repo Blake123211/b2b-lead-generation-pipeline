@@ -1,4 +1,4 @@
-<img width="1375" height="655" alt="Screenshot 2026-05-27 at 8 37 04 AM" src="https://github.com/user-attachments/assets/c099c9b7-eb7c-49f9-bb55-c4037af9b591" />
+
 # B2B Lead Generation Pipeline
 
 An automated B2B lead generation and cold outreach pipeline built for targeting US-based founders of small Facebook/Meta ads agencies serving ecommerce brands.
