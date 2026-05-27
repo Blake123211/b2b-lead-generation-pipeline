@@ -1,3 +1,4 @@
+<img width="1375" height="655" alt="Screenshot 2026-05-27 at 8 37 04 AM" src="https://github.com/user-attachments/assets/c099c9b7-eb7c-49f9-bb55-c4037af9b591" />
 # B2B Lead Generation Pipeline
 
 An automated B2B lead generation and cold outreach pipeline built for targeting US-based founders of small Facebook/Meta ads agencies serving ecommerce brands.
@@ -17,6 +18,10 @@ An automated B2B lead generation and cold outreach pipeline built for targeting 
 3. Claude AI generates personalized email copy for each prospect
 4. n8n workflow sends emails via Gmail API on automated schedule
 5. Google Sheets logs all outreach and flags duplicates
+
+<img width="1375" height="655" alt="Screenshot 2026-05-27 at 8 37 04 AM" src="https://github.com/user-attachments/assets/c099c9b7-eb7c-49f9-bb55-c4037af9b591" />
+
+<img width="1436" height="542" alt="Screenshot 2026-05-27 at 8 37 42 AM" src="https://github.com/user-attachments/assets/ef915d18-3298-4c9c-99dd-467830c33dfd" />
 
 ## Tech Stack
 
